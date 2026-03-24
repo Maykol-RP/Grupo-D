@@ -46,7 +46,7 @@ Este repositorio refleja el trabajo conjunto del equipo: desde la planificación
       <sub>🎓 Estudiante · Grupo D</sub>
     </td>
     <td align="center" width="160">
-      <img src="https://img.freepik.com/vector-gratis/cute-zebra-trabajando-ilustracion-icono-dibujos-animados-portatil_138676-2795.jpg?semt=ais_hybrid&w=740&q=80" width="80" height="80" style="border-radius:50%;" alt="Fray"/><br/><br/>
+      <img src="https://png.pngtree.com/background/20230612/original/pngtree-screenshotsaturday-picture-image_3175805.jpg" width="80" width="80" height="80" style="border-radius:50%;" alt="Fray"/><br/><br/>
       <b>Fray</b><br/>
       Salcedo Ramos<br/><br/>
       <sub>🎓 Estudiante · Grupo D</sub>
