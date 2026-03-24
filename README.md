@@ -27,64 +27,10 @@ Este repositorio representa el trabajo conjunto del equipo, abarcando desde la p
 
 ## 👥 Integrantes del Grupo D
 
-<table align="center" style="border-collapse: collapse; width: 100%; max-width: 900px; margin: 20px auto; box-shadow: 0 2px 10px rgba(0,0,0,0.05); border-radius: 12px; overflow: hidden;">
-  <thead>
-    <tr style="background-color: #f2f2f2;">
-      <th style="padding: 12px; text-align: center; border-bottom: 2px solid #ddd;">Estudiante</th>
-      <th style="padding: 12px; text-align: center; border-bottom: 2px solid #ddd;">Rol / Aportación</th>
-      <th style="padding: 12px; text-align: center; border-bottom: 2px solid #ddd;">Contacto</th>
-     </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 16px; text-align: center; border-bottom: 1px solid #eee;">
-        <strong>Fabrizio Yair Aguilar Vargas</strong><br/>
-        <span style="color: #666;">🎓 Estudiante de Ingeniería de Sistemas</span>
-      </td>
-      <td style="padding: 16px; border-bottom: 1px solid #eee;">Líder técnico · Backend · Arquitectura de software</td>
-      <td style="padding: 16px; text-align: center; border-bottom: 1px solid #eee;">
-        <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-      </td>
-    </tr>
-    <tr style="background-color: #fafafa;">
-      <td style="padding: 16px; text-align: center; border-bottom: 1px solid #eee;">
-        <strong>Mariano Jhoshua Laura Paz</strong><br/>
-        <span style="color: #666;">🎓 Estudiante de Ingeniería de Sistemas</span>
-      </td>
-      <td style="padding: 16px; border-bottom: 1px solid #eee;">Desarrollador Full Stack · Integración de APIs · Pruebas</td>
-      <td style="padding: 16px; text-align: center; border-bottom: 1px solid #eee;">
-        <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 16px; text-align: center; border-bottom: 1px solid #eee;">
-        <strong>Maykol Rocca Puma</strong><br/>
-        <span style="color: #666;">🎓 Estudiante de Ingeniería de Sistemas</span>
-      </td>
-      <td style="padding: 16px; border-bottom: 1px solid #eee;">Frontend · Experiencia de usuario (UX) · Maquetación web</td>
-      <td style="padding: 16px; text-align: center; border-bottom: 1px solid #eee;">
-        <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-      </td>
-    </tr>
-    <tr style="background-color: #fafafa;">
-      <td style="padding: 16px; text-align: center; border-bottom: 1px solid #eee;">
-        <strong>Fray Salcedo Ramos</strong><br/>
-        <span style="color: #666;">🎓 Estudiante de Ingeniería de Sistemas</span>
-      </td>
-      <td style="padding: 16px; border-bottom: 1px solid #eee;">Base de datos · Documentación técnica · Soporte DevOps</td>
-      <td style="padding: 16px; text-align: center; border-bottom: 1px solid #eee;">
-        <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 16px; text-align: center;">
-        <strong>Liz Eliana Vargas Rojas</strong><br/>
-        <span style="color: #666;">🎓 Estudiante de Ingeniería de Sistemas</span>
-      </td>
-      <td style="padding: 16px;">QA · Pruebas funcionales · Gestión de requisitos</td>
-      <td style="padding: 16px; text-align: center;">
-        <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Estudiante | Rol / Aportación | Contacto |
+|------------|------------------|----------|
+| <img src="https://avatars.githubusercontent.com/u/105171640?v=4" width="40" height="40" style="border-radius: 50%; vertical-align: middle;">  **Fabrizio Yair Aguilar Vargas**<br/><span style="color: #666; font-size: 0.9em;">🎓 Estudiante de Ingeniería de Sistemas</span> | Líder técnico · Backend · Arquitectura de software | <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a> |
+| <img src="https://avatars.githubusercontent.com/u/7739709?v=4" width="40" height="40" style="border-radius: 50%; vertical-align: middle;">  **Mariano Jhoshua Laura Paz**<br/><span style="color: #666; font-size: 0.9em;">🎓 Estudiante de Ingeniería de Sistemas</span> | Desarrollador Full Stack · Integración de APIs · Pruebas | <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a> |
+| <img src="https://i.pinimg.com/originals/54/f7/37/54f737502df8f8f7333ac3a073a392c3.jpg" width="40" height="40" style="border-radius: 50%; vertical-align: middle;">  **Maykol Rocca Puma**<br/><span style="color: #666; font-size: 0.9em;">🎓 Estudiante de Ingeniería de Sistemas</span> | Frontend · Experiencia de usuario (UX) · Maquetación web | <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a> |
+| <img src="https://img.freepik.com/vector-gratis/cute-zebra-trabajando-ilustracion-icono-dibujos-animados-portatil_138676-2795.jpg?semt=ais_hybrid&w=740&q=80" width="40" height="40" style="border-radius: 50%; vertical-align: middle;">  **Fray Salcedo Ramos**<br/><span style="color: #666; font-size: 0.9em;">🎓 Estudiante de Ingeniería de Sistemas</span> | Base de datos · Documentación técnica · Soporte DevOps | <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a> |
+| <img src="https://img.freepik.com/vector-gratis/linda-chica-hacker-operando-laptop-dibujos-animados-vector-icono-ilustracion-personas-tecnologia-aislada-plana_138676-9487.jpg?semt=ais_hybrid&w=740&q=80" width="40" height="40" style="border-radius: 50%; vertical-align: middle;">  **Liz Eliana Vargas Rojas**<br/><span style="color: #666; font-size: 0.9em;">🎓 Estudiante de Ingeniería de Sistemas</span> | QA · Pruebas funcionales · Gestión de requisitos | <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a> |
