@@ -52,7 +52,7 @@ Este repositorio refleja el trabajo conjunto del equipo: desde la planificación
       <sub>🎓 Estudiante · Grupo D</sub>
     </td>
     <td align="center" width="160">
-      <img src="[https://via.placeholder.com/90/FBEAF0/72243E?text=LV](https://img.freepik.com/vector-gratis/linda-chica-hacker-operando-laptop-dibujos-animados-vector-icono-ilustracion-personas-tecnologia-aislada-plana_138676-9487.jpg?semt=ais_hybrid&w=740&q=80)" width="80" height="80" style="border-radius:50%;" alt="Liz"/><br/><br/>
+      <img src="https://via.placeholder.com/90/FBEAF0/72243E?text=LV](https://img.freepik.com/vector-gratis/linda-chica-hacker-operando-laptop-dibujos-animados-vector-icono-ilustracion-personas-tecnologia-aislada-plana_138676-9487.jpg?semt=ais_hybrid&w=740&q=80" width="80" height="80" style="border-radius:50%;" alt="Liz"/><br/><br/>
       <b>Liz Eliana</b><br/>
       Vargas Rojas<br/><br/>
       <sub>🎓 Estudiante · Grupo D</sub>
