@@ -40,7 +40,7 @@ Este repositorio refleja el trabajo conjunto del equipo: desde la planificación
       <sub>🎓 Estudiante · Grupo D</sub>
     </td>
     <td align="center" width="160">
-      <img src="[https://via.placeholder.com/90/E1F5EE/085041?text=MR" width="80" height="80" style="border-radius:50%;" alt="Maykol](https://lh3.googleusercontent.com/a/ACg8ocJO2MO8dau_mJ4qL7ho4yRc-7sDBBDtPeAaDnwWdmT6YMiRMaSj=s288-c-no)"/><br/><br/>
+      <img src="https://via.placeholder.com/90/E1F5EE/085041?text=MR" width="80" height="80" style="border-radius:50%;" alt="Maykol"/><br/><br/>
       <b>Maykol</b><br/>
       Rocca Puma<br/><br/>
       <sub>🎓 Estudiante · Grupo D</sub>
@@ -59,7 +59,3 @@ Este repositorio refleja el trabajo conjunto del equipo: desde la planificación
     </td>
   </tr>
 </table>
-
-> 📸 **Para agregar fotos reales:** reemplaza la URL del `src` de cada `<img>` por el enlace directo a la foto de cada integrante. Puedes subir las fotos a la carpeta `/assets` del repo y referenciarlas así: `src="assets/fabrizio.jpg"`
-
----
