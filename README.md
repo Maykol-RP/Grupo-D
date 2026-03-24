@@ -40,7 +40,7 @@ Este repositorio refleja el trabajo conjunto del equipo: desde la planificación
       <sub>🎓 Estudiante · Grupo D</sub>
     </td>
     <td align="center" width="160">
-      <img src="https://via.placeholder.com/90/E1F5EE/085041?text=MR" width="80" height="80" style="border-radius:50%;" alt="Maykol"/><br/><br/>
+      <img src="[https://via.placeholder.com/90/E1F5EE/085041?text=MR" width="80" height="80" style="border-radius:50%;" alt="Maykol](https://lh3.googleusercontent.com/a/ACg8ocJO2MO8dau_mJ4qL7ho4yRc-7sDBBDtPeAaDnwWdmT6YMiRMaSj=s288-c-no)"/><br/><br/>
       <b>Maykol</b><br/>
       Rocca Puma<br/><br/>
       <sub>🎓 Estudiante · Grupo D</sub>
