@@ -28,25 +28,25 @@ Este repositorio refleja el trabajo conjunto del equipo: desde la planificación
 <table align="center">
   <tr>
     <td align="center" width="160">
-      <img src="https://via.placeholder.com/90/EEEDFE/3C3489?text=FY" width="80" height="80" style="border-radius:50%;" alt="Fabrizio"/><br/><br/>
+      <img src="https://avatars.githubusercontent.com/u/105171640?v=4" width="80" height="80" style="border-radius:50%;" alt="Fabrizio"/><br/><br/>
       <b>Fabrizio Yair</b><br/>
       Aguilar Vargas<br/><br/>
       <sub>🎓 Estudiante · Grupo D</sub>
     </td>
     <td align="center" width="160">
-      <img src="https://via.placeholder.com/90/E6F1FB/0C447C?text=MJ" width="80" height="80" style="border-radius:50%;" alt="Mariano"/><br/><br/>
+      <img src="https://avatars.githubusercontent.com/u/7739709?v=4" width="80" height="80" style="border-radius:50%;" alt="Mariano"/><br/><br/>
       <b>Mariano Jhoshua</b><br/>
       Laura Paz<br/><br/>
       <sub>🎓 Estudiante · Grupo D</sub>
     </td>
     <td align="center" width="160">
-      <img src="https://img.freepik.com/vector-gratis/hacker-que-opera-ilustracion-icono-historieta-ordenador-portatil-concepto-icono-tecnologia-aislado-estilo-dibujos-animados-plana_138676-2387.jpg?semt=ais_hybrid&w=740&q=80" width="80" height="80" style="border-radius:50%;" alt="Maykol"/><br/><br/>
+      <img src="https://i.pinimg.com/originals/54/f7/37/54f737502df8f8f7333ac3a073a392c3.jpg" width="80" height="80" style="border-radius:50%;" alt="Maykol"/><br/><br/>
       <b>Maykol</b><br/>
       Rocca Puma<br/><br/>
       <sub>🎓 Estudiante · Grupo D</sub>
     </td>
     <td align="center" width="160">
-      <img src="https://png.pngtree.com/background/20230612/original/pngtree-screenshotsaturday-picture-image_3175805.jpg" width="80" width="80" height="80" style="border-radius:50%;" alt="Fray"/><br/><br/>
+      <img src="https://img.freepik.com/vector-gratis/cute-zebra-trabajando-ilustracion-icono-dibujos-animados-portatil_138676-2795.jpg?semt=ais_hybrid&w=740&q=80" width="80" height="80" style="border-radius:50%;" alt="Fray"/><br/><br/>
       <b>Fray</b><br/>
       Salcedo Ramos<br/><br/>
       <sub>🎓 Estudiante · Grupo D</sub>
