@@ -40,7 +40,7 @@ Este repositorio refleja el trabajo conjunto del equipo: desde la planificación
       <sub>🎓 Estudiante · Grupo D</sub>
     </td>
     <td align="center" width="160">
-      <img src="[https://via.placeholder.com/90/E1F5EE/085041?text=MR](https://img.freepik.com/vector-gratis/hacker-que-opera-ilustracion-icono-historieta-ordenador-portatil-concepto-icono-tecnologia-aislado-estilo-dibujos-animados-plana_138676-2387.jpg?semt=ais_hybrid&w=740&q=80)" width="80" height="80" style="border-radius:50%;" alt="Maykol"/><br/><br/>
+      <img src="https://img.freepik.com/vector-gratis/hacker-que-opera-ilustracion-icono-historieta-ordenador-portatil-concepto-icono-tecnologia-aislado-estilo-dibujos-animados-plana_138676-2387.jpg?semt=ais_hybrid&w=740&q=80" width="80" height="80" style="border-radius:50%;" alt="Maykol"/><br/><br/>
       <b>Maykol</b><br/>
       Rocca Puma<br/><br/>
       <sub>🎓 Estudiante · Grupo D</sub>
