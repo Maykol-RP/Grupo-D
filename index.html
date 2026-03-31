@@ -5,82 +5,88 @@
   <title>Grupo D</title>
   <link rel="stylesheet" href="css/estilos.css">
 </head>
-
 <body>
 
-<section class="hero">
-  <h1>GRUPO D</h1>
-  <p>Somos 5 estudiantes de Ingeniería de Sistemas e Informática.</p>
-</section>
-
-<h2>OPERADORES DEL SISTEMA</h2>
-
-<section class="galeria reveal">
-
-  <!-- TARJETAS -->
-  <div class="tarjeta" onclick="girar(this)">
-    <div class="tarjeta-inner">
-      <div class="tarjeta-front">
-        <img src="IMAGEN/fray.jpeg">
-      </div>
-      <div class="tarjeta-back">
-        <h3>Fray Salcedo Ramos</h3>
-        <p>Full Stack</p>
-      </div>
+  <section class="hero">
+    <div class="hero-content">
+      <h1>GRUPO D</h1>
+      <p>Somos 5 estudiantes de Ingeniería de Sistemas e Informática.</p>
+      <a href="#integrantes" class="scroll-btn">
+        Conoce al equipo
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="18" height="18">
+          <path d="M12 5v14M5 12l7 7 7-7"/>
+        </svg>
+      </a>
     </div>
-  </div>
+  </section>
 
-  <div class="tarjeta" onclick="girar(this)">
-    <div class="tarjeta-inner">
-      <div class="tarjeta-front">
-        <img src="IMAGEN/fabrizio.jpeg">
+  <section id="integrantes">
+    <h2>OPERADORES DEL SISTEMA</h2>
+    <div class="galeria">
+
+      <div class="tarjeta" onclick="girar(this)">
+        <div class="tarjeta-inner">
+          <div class="tarjeta-front">
+            <img src="img/Fray.jpeg" alt="Fray Salcedo">
+          </div>
+          <div class="tarjeta-back">
+            <h3>Fray Salcedo Ramos</h3>
+            <p>Full Stack</p>
+          </div>
+        </div>
       </div>
-      <div class="tarjeta-back">
-        <h3>Fabrizio Aguilar</h3>
-        <p>Frontend</p>
+
+      <div class="tarjeta" onclick="girar(this)">
+        <div class="tarjeta-inner">
+          <div class="tarjeta-front">
+            <img src="img/Fabrizio.jpeg" alt="Fabrizio Aguilar">
+          </div>
+          <div class="tarjeta-back">
+            <h3>Fabrizio Aguilar</h3>
+            <p>Frontend</p>
+          </div>
+        </div>
       </div>
+
+      <div class="tarjeta" onclick="girar(this)">
+        <div class="tarjeta-inner">
+          <div class="tarjeta-front">
+            <img src="img/Liz.jpeg" alt="Liz Vargas">
+          </div>
+          <div class="tarjeta-back">
+            <h3>Liz Vargas</h3>
+            <p>Frontend</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="tarjeta" onclick="girar(this)">
+        <div class="tarjeta-inner">
+          <div class="tarjeta-front">
+            <img src="img/Mariano.jpeg" alt="Mariano Laura">
+          </div>
+          <div class="tarjeta-back">
+            <h3>Mariano Laura</h3>
+            <p>Base de Datos</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="tarjeta" onclick="girar(this)">
+        <div class="tarjeta-inner">
+          <div class="tarjeta-front">
+            <img src="img/Maykol.jpeg" alt="Maykol Rocca">
+          </div>
+          <div class="tarjeta-back">
+            <h3>Maykol Rocca</h3>
+            <p>DevOps</p>
+          </div>
+        </div>
+      </div>
+
     </div>
-  </div>
+  </section>
 
-  <div class="tarjeta" onclick="girar(this)">
-    <div class="tarjeta-inner">
-      <div class="tarjeta-front">
-        <img src="IMAGEN/liz.jpeg">
-      </div>
-      <div class="tarjeta-back">
-        <h3>Liz Vargas</h3>
-        <p>Frontend</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="tarjeta" onclick="girar(this)">
-    <div class="tarjeta-inner">
-      <div class="tarjeta-front">
-        <img src="IMAGEN/mariano.jpeg">
-      </div>
-      <div class="tarjeta-back">
-        <h3>Mariano Laura</h3>
-        <p>Base de Datos</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="tarjeta" onclick="girar(this)">
-    <div class="tarjeta-inner">
-      <div class="tarjeta-front">
-        <img src="IMAGEN/maykol.jpeg">
-      </div>
-      <div class="tarjeta-back">
-        <h3>Maykol Rocca</h3>
-        <p>DevOps</p>
-      </div>
-    </div>
-  </div>
-
-</section>
-
-<script src="fray.js"></script>
-
+  <script src="fray.js"></script>
 </body>
 </html>
